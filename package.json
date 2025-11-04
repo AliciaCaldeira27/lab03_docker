@@ -1,6 +1,7 @@
 {
   "name": "webacademy",
   "version": "1.0.0",
+  "type": "module",
   "description": "Continious Deployment with Github Actions, DockerHub",
   "scripts": {
     "start": "node app.js",
